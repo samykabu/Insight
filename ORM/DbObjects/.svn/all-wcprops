@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects
+END
+PortalArticleComments.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalArticleComments.cs
+END
+ForumsMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsMessage.cs
+END
+ForumsBoard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsBoard.cs
+END
+PortalArticleTranslation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalArticleTranslation.cs
+END
+ForumsForum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsForum.cs
+END
+PortalPageBanner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalPageBanner.cs
+END
+PortalPageArticles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalPageArticles.cs
+END
+PortalBanner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalBanner.cs
+END
+ForumsModerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsModerator.cs
+END
+PortalArticleRateReq.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalArticleRateReq.cs
+END
+PortalPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalPage.cs
+END
+Profile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/Profile.cs
+END
+PortalLanguage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalLanguage.cs
+END
+PortalArticleMedia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalArticleMedia.cs
+END
+PortalArticle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/PortalArticle.cs
+END
+ForumsCategory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsCategory.cs
+END
+ForumsUser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsUser.cs
+END
+ForumsTopic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Insight/!svn/ver/2/trunk/ORM/DbObjects/ForumsTopic.cs
+END

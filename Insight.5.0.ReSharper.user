@@ -1,0 +1,79 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:Search.aspx" caret="1085" fromTop="25" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:Archive.aspx" caret="1198" fromTop="23" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:contact.html" caret="1149" fromTop="22" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:Error.aspx" caret="0" fromTop="0" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:ArticleMaster.Master" caret="779" fromTop="13" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:error.html" caret="935" fromTop="20" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:media.aspx" caret="1138" fromTop="24" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:Login.aspx" caret="0" fromTop="0" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx.cs" caret="465" fromTop="16" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:thanks.html" caret="0" fromTop="0" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:ArticleView.aspx" caret="1228" fromTop="21" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:style-ie.css" caret="599" fromTop="0" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:index.aspx" caret="27194" fromTop="11" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:style.css" caret="7567" fromTop="35" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:programs.html" caret="2276" fromTop="27" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-trips.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-studentdev.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-school.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-hr.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-career-uni.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-career-job.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-career-high.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-abroad.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-105.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:about.html" caret="1334" fromTop="7" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="18490" fromTop="12" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.html" caret="2804" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:programs.html" caret="3137" fromTop="10" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:index.aspx" caret="27360" fromTop="11" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="14727" fromTop="26" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="14443" fromTop="28" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="12915" fromTop="17" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:style.css" caret="484" fromTop="32" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:style.css" caret="569" fromTop="38" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="11944" fromTop="7" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:programs.html" caret="2276" fromTop="27" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-trips.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-studentdev.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-school.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-hr.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-career-uni.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-career-job.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-career-high.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-abroad.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:program-105.html" caret="2348" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:about.html" caret="2323" fromTop="18" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="3946" fromTop="6" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="1512" fromTop="15" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="4237" fromTop="8" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="1138" fromTop="9" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="5064" fromTop="12" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="16794" fromTop="11" />
+      <File id="1D924F03-8F82-40B4-BDAF-6B9619D7E954/f:register.aspx" caret="18490" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

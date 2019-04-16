@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/Insight/!svn/ver/2/trunk/news
+END
+checkID.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Insight/!svn/ver/2/trunk/news/checkID.php
+END
+calender.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Insight/!svn/ver/2/trunk/news/calender.php
+END
+connectDatabase.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Insight/!svn/ver/2/trunk/news/connectDatabase.php
+END
+createNews.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Insight/!svn/ver/2/trunk/news/createNews.php
+END
+changeNews.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Insight/!svn/ver/2/trunk/news/changeNews.php
+END
+error_log
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/Insight/!svn/ver/2/trunk/news/error_log
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/Insight/!svn/ver/2/trunk/news/main.php
+END
+modifyNews.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Insight/!svn/ver/2/trunk/news/modifyNews.php
+END
+newNews.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Insight/!svn/ver/2/trunk/news/newNews.php
+END
+viewNews.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/Insight/!svn/ver/2/trunk/news/viewNews.php
+END
